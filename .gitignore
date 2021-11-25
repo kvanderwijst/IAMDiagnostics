@@ -1,6 +1,7 @@
 # Ignore output files
 *.png
 Inertia/
+output/
 *.pdf
 *.doc
 *.docx
